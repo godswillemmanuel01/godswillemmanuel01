@@ -1,229 +1,416 @@
 <div align="center">
 
-# 👋 Hello, I'm **Godswill Eze Emmanuel**
+# ⚡ GODSWILL EZE EMMANUEL
 
-### 🚀 Full-Stack Developer • Web Engineer • UI Developer
+### `FULL-STACK DEVELOPER` · `WEB ENGINEER` · `UI DEVELOPER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;Full-Stack+Developer;Frontend+%26+Backend+Engineer;Turning+Ideas+Into+Scalable+Products;5%2B+Years+Of+Coding+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Architecting+Digital+Experiences;Building+Scalable+Full-Stack+Systems;Engineering+Modern+Web+Applications;Turning+Ideas+Into+Production-Ready+Products;5%2B+Years+Of+Code%2C+Learning+%26+Innovation" alt="Typing Animation"/>
 
-<br/>
+<br>
 
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_OPPORTUNITIES-00F7FF?style=for-the-badge&labelColor=050816&color=00F7FF" />
+<img src="https://img.shields.io/badge/EXPERIENCE-5%2B_YEARS-8A2BE2?style=for-the-badge&labelColor=050816&color=8A2BE2" />
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-FF00AA?style=for-the-badge&labelColor=050816&color=FF00AA" />
 
-\
+<br><br>
+
+<a href="https://godswilleze.netlify.app">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00F7FF?style=for-the-badge&labelColor=050816" />
+</a>
+<a href="https://wa.me/2348036359839">
+<img src="https://img.shields.io/badge/💬_WHATSAPP-25D366?style=for-the-badge&labelColor=050816" />
+</a>
+<a href="https://instagram.com/OFFICIALGODSWILLEMMANUEL">
+<img src="https://img.shields.io/badge/📸_INSTAGRAM-E4405F?style=for-the-badge&labelColor=050816" />
+</a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-I'm **Godswill Eze Emmanuel**, a passionate **Full-Stack Developer and Web Engineer** with **5+ years of coding experience**, focused on building modern, responsive, scalable, and user-centered digital products.
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                  DIGITAL BUILDER // SYSTEM ARCHITECT                ║
+║                                                                      ║
+║       CODE  ─────────  DESIGN  ─────────  ENGINEERING               ║
+║                                                                      ║
+║              Turning complex problems into elegant                  ║
+║                    digital experiences.                              ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-I enjoy transforming ideas into functional software — from polished interfaces and interactive web applications to robust backend systems and APIs.
+</div>
+
+# 🧬 `IDENTITY`
 
 ```javascript
-const godswill = {
+const developer = {
     name: "Godswill Eze Emmanuel",
-    role: "Full-Stack Developer",
-    experience: "5+ Years",
-    focus: [
-        "Frontend Development",
-        "Backend Development",
-        "Full-Stack Applications",
-        "REST APIs",
-        "Database Systems",
-        "UI/UX Implementation",
-        "Responsive Web Design"
+
+    title: [
+        "Full-Stack Developer",
+        "Web Engineer",
+        "UI Developer"
     ],
-    mindset: "Build. Learn. Improve. Repeat.",
-    status: "Available for opportunities 🚀"
+
+    experience: "5+ Years",
+
+    mission:
+        "Build modern, scalable and meaningful digital products.",
+
+    specialties: [
+        "Frontend Engineering",
+        "Backend Engineering",
+        "Full-Stack Development",
+        "API Architecture",
+        "Database Systems",
+        "UI Engineering",
+        "Responsive Web Applications"
+    ],
+
+    philosophy:
+        "Think deeply. Build cleanly. Ship confidently.",
+
+    currentMode: "BUILDING 🚀"
 };
 ```
 
 ---
 
-## ⚡ What I Do
+# 🛰️ `ABOUT // ME`
 
-| 💻 Area              | 🚀 What I Build                                    |
-| -------------------- | -------------------------------------------------- |
-| 🎨 Frontend          | Modern, responsive & interactive interfaces        |
-| ⚙️ Backend           | Scalable APIs and server-side applications         |
-| 🗄️ Databases        | Structured and reliable data systems               |
-| 🌐 Full-Stack        | Complete end-to-end web applications               |
-| 🔐 Authentication    | Secure login, registration & authorization systems |
-| 🔌 APIs              | RESTful APIs & third-party integrations            |
-| 📱 Responsive Design | Mobile, tablet, desktop & large-screen experiences |
-| 🚀 Deployment        | Production-ready websites and applications         |
-| 🎯 UI/UX             | Clean, intuitive and user-focused interfaces       |
+I'm **Godswill Eze Emmanuel**, a **Full-Stack Developer, Web Engineer and UI Developer** with **5+ years of coding experience**.
+
+I build digital products that combine **clean interfaces, solid engineering, scalable architecture and meaningful user experiences**.
+
+My approach sits at the intersection of:
+
+```text
+          ┌───────────────┐
+          │    DESIGN     │
+          └───────┬───────┘
+                  │
+                  ▼
+┌──────────┐   PRODUCT   ┌──────────────┐
+│   UX/UI  │ ◄─────────► │ ENGINEERING  │
+└──────────┘             └──────┬───────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │   IMPACT     │
+                         └──────────────┘
+```
+
+I don't just write code.
+
+**I engineer experiences.**
 
 ---
 
-# 🛠️ Tech Stack
+# ⚙️ `CORE CAPABILITIES`
 
-### 🎨 Frontend
+<div align="center">
+
+| SYSTEM | CAPABILITY                             |
+| :----: | :------------------------------------- |
+|  `01`  | 🎨 **Frontend Engineering**            |
+|  `02`  | ⚙️ **Backend Development**             |
+|  `03`  | 🌐 **Full-Stack Applications**         |
+|  `04`  | 🔌 **REST APIs & Integrations**        |
+|  `05`  | 🗄️ **Database Architecture**          |
+|  `06`  | 🔐 **Authentication & Authorization**  |
+|  `07`  | 📱 **Responsive Web Engineering**      |
+|  `08`  | 🚀 **Deployment & Production Systems** |
+|  `09`  | 🧩 **UI/UX Implementation**            |
+|  `10`  | ⚡ **Performance Optimization**         |
+
+</div>
+
+---
+
+# 🧠 `TECHNOLOGY MATRIX`
+
+### `FRONTEND`
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend
+### `BACKEND`
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java" />
 </p>
 
-### 🗄️ Databases
+### `DATABASE & CLOUD`
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" />
 </p>
 
-### 🔧 Tools & Technologies
+### `DEVOPS // TOOLS`
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,vercel,netlify" />
 </p>
 
 ---
 
-## 🧠 Development Philosophy
-
-> **"Great software isn't just about writing code. It's about solving problems, creating experiences, and building something people can actually use."**
-
-I believe in:
+# 🌌 `ENGINEERING STACK`
 
 ```text
-01 → Understand the problem
-02 → Plan the solution
-03 → Design the experience
-04 → Write clean & maintainable code
-05 → Test & optimize
-06 → Deploy
-07 → Learn from feedback
-08 → Improve continuously
+                         ┌──────────────────────┐
+                         │      USER LAYER      │
+                         │ UI / UX / ACCESSIBILITY │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                    ┌──────────────────────────────┐
+                    │       FRONTEND LAYER         │
+                    │ React / Next.js / JavaScript │
+                    └──────────────┬───────────────┘
+                                   │
+                                   ▼
+                    ┌──────────────────────────────┐
+                    │         API LAYER             │
+                    │ REST / Authentication / Logic │
+                    └──────────────┬───────────────┘
+                                   │
+                                   ▼
+                    ┌──────────────────────────────┐
+                    │        BACKEND LAYER          │
+                    │ Node / Express / Server Logic │
+                    └──────────────┬───────────────┘
+                                   │
+                                   ▼
+                    ┌──────────────────────────────┐
+                    │          DATA LAYER           │
+                    │ MongoDB / SQL / Cloud DBs     │
+                    └──────────────────────────────┘
 ```
 
 ---
 
-# 🚀 Things I Love Building
+# 🚀 `WHAT I BUILD`
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   🌐 Modern Websites                                │
-│   💻 Web Applications                               │
-│   📱 Responsive Interfaces                           │
-│   🛒 E-Commerce Platforms                            │
-│   🔐 Authentication Systems                          │
-│   📊 Dashboards & Admin Panels                       │
-│   🔌 REST APIs                                      │
-│   🗄️ Database-Driven Applications                   │
-│   🤖 AI-Powered Web Experiences                      │
-│   🎓 Educational Platforms                           │
-│   🏢 Business & Corporate Websites                   │
-│   ⚡ Performance-Focused Applications                │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  🌐  MODERN WEB PLATFORMS                                    │
+│                                                              │
+│  💻  FULL-STACK APPLICATIONS                                 │
+│                                                              │
+│  📊  ADMIN DASHBOARDS & ANALYTICS SYSTEMS                    │
+│                                                              │
+│  🛒  E-COMMERCE PLATFORMS                                    │
+│                                                              │
+│  🔐  AUTHENTICATION SYSTEMS                                  │
+│                                                              │
+│  🔌  REST APIs & THIRD-PARTY INTEGRATIONS                    │
+│                                                              │
+│  🏢  BUSINESS & CORPORATE WEBSITES                           │
+│                                                              │
+│  🎓  EDUCATIONAL PLATFORMS                                   │
+│                                                              │
+│  🤖  AI-ENABLED DIGITAL EXPERIENCES                          │
+│                                                              │
+│  📱  RESPONSIVE DIGITAL PRODUCTS                             │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# 📈 My Developer Journey
+# 🧪 `HOW I ENGINEER`
 
-### 🟢 5+ Years of Coding
+```text
+[01] DISCOVER
+     ↓
+     Understand the problem
+     
+[02] ARCHITECT
+     ↓
+     Design the system & user flow
 
-I've spent years learning, experimenting, building projects, debugging problems, and continuously improving my understanding of software development.
+[03] DESIGN
+     ↓
+     Create a clean digital experience
 
-My journey has taken me through:
+[04] DEVELOP
+     ↓
+     Build maintainable production code
 
-**HTML → CSS → JavaScript → Frontend Frameworks → Backend Development → Databases → APIs → Full-Stack Architecture → Production Applications**
+[05] TEST
+     ↓
+     Validate functionality & reliability
 
-And the journey continues. 🚀
+[06] OPTIMIZE
+     ↓
+     Improve performance & experience
+
+[07] DEPLOY
+     ↓
+     Ship to production
+
+[08] ITERATE
+     ↓
+     Learn → Improve → Repeat
+```
 
 ---
 
-# 💼 Open To
+# 🔥 `DEVELOPER MINDSET`
 
-I'm interested in connecting with people and organizations working on interesting technology projects.
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   THINK     →  BEFORE YOU CODE              │
+│   DESIGN    →  BEFORE YOU BUILD             │
+│   BUILD     →  WITH PURPOSE                 │
+│   TEST      →  EVERYTHING                   │
+│   OPTIMIZE  →  WHAT MATTERS                 │
+│   SHIP      →  DON'T JUST PLAN              │
+│   LEARN     →  EVERY SINGLE DAY             │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
-### 🤝 Available For
-
-* 💼 Full-Time Opportunities
-* 🧑‍💻 Freelance Projects
-* 🚀 Startup Projects
-* 🤝 Collaboration
-* 🏢 Software Development Teams
-* 🌐 Web Development Projects
-* 🎨 Frontend/UI Development
-* ⚙️ Backend & API Development
-* 🔥 Full-Stack Development
+> **"The goal isn't simply to make software work. The goal is to make it useful, reliable, maintainable and enjoyable to use."**
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 `GITHUB // TELEMETRY`
 
 <div align="center">
 
-<img src="[https://github-readme-stats.vercel.app/api?username=](https://github-readme-stats.vercel.app/api?username=godswillemmanuel01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)[godswillemmanuel01](https://github-readme-stats.vercel.app/api?username=godswillemmanuel01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)[&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=godswillemmanuel01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=godswillemmanuel01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godswillemmanuel01&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godswillemmanuel01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=godswillemmanuel01&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🐍 `CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img src="[https://streak-stats.demolab.com?user=](https://streak-stats.demolab.com?user=godswillemmanuel01&theme=tokyonight&hide_border=true)[godswillemmanuel01](https://streak-stats.demolab.com?user=godswillemmanuel01&theme=tokyonight&hide_border=true)[&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=godswillemmanuel01&theme=tokyonight&hide_border=true)" />
+<img src="https://raw.githubusercontent.com/godswillemmanuel01/godswillemmanuel01/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+# 🏆 `BUILD STATUS`
 
 <div align="center">
 
-<img src="[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/godswillemmanuel01/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)[godswillemmanuel01](https://raw.githubusercontent.com/godswillemmanuel01/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)[/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/godswillemmanuel01/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)" alt="GitHub Contribution Snake"/>
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   EXPERIENCE          5+ YEARS              │
+│   SPECIALIZATION      FULL-STACK            │
+│   FOCUS               WEB ENGINEERING       │
+│   STATUS              ONLINE                │
+│   MODE                BUILDING              │
+│   NEXT MISSION        → UNKNOWN             │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 💼 `CURRENTLY OPEN TO`
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  ● Full-Time Opportunities                                 │
+│  ● Freelance Development                                   │
+│  ● Startup & Product Collaboration                         │
+│  ● Software Development Teams                              │
+│  ● Frontend Engineering                                    │
+│  ● Backend Engineering                                     │
+│  ● Full-Stack Projects                                     │
+│  ● UI Engineering                                          │
+│  ● Technology Partnerships                                 │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+---
+
+# 🌐 `CONNECT // NETWORK`
 
 <div align="center">
 
-### Let's build something amazing together.
+### BUILD SOMETHING GREAT?
 
-<br/>
+### LET'S TALK.
 
-📱 **WhatsApp:**
-**+234 803 635 9839**
+<br>
 
-📞 **Phone:**
-**+234 902 454 9430**
+<a href="https://godswilleze.netlify.app">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-godswilleze.netlify.app-00F7FF?style=for-the-badge&labelColor=050816"/>
+</a>
 
-📸 **Instagram:**
-**@OFFICIALGODSWILLEMMANUEL**
+<br><br>
 
-📘 **Facebook:**
-**Godswill Emmanuel**
+<a href="https://wa.me/2348036359839">
+<img src="https://img.shields.io/badge/WHATSAPP-+234_803_635_9839-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=050816"/>
+</a>
 
-🌐 **Portfolio:**
-**godswilleze.netlify.app**
+<br>
+
+<img src="https://img.shields.io/badge/PHONE-+234_902_454_9430-8A2BE2?style=for-the-badge&labelColor=050816"/>
+
+<br><br>
+
+<a href="https://instagram.com/OFFICIALGODSWILLEMMANUEL">
+<img src="https://img.shields.io/badge/INSTAGRAM-@OFFICIALGODSWILLEMMANUEL-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050816"/>
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/FACEBOOK-Godswill_Emmanuel-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=050816"/>
 
 </div>
 
 ---
 
-## 📬 Contact
-
-If you have a project, collaboration idea, job opportunity, or simply want to connect, feel free to reach out.
+# 🛰️ `SYSTEM MESSAGE`
 
 <div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                 CONNECTION ESTABLISHED                      ║
+║                                                              ║
+║              GODSWILL EZE EMMANUEL                           ║
+║                                                              ║
+║          FULL-STACK DEVELOPER // WEB ENGINEER               ║
+║                                                              ║
+║              READY TO BUILD THE NEXT THING.                 ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+### `CODE • CREATE • INNOVATE • SHIP`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=godswillemmanuel01&label=PROFILE%20VISITORS&color=00F7FF&style=for-the-badge" />
 
 </div>
 
@@ -231,14 +418,10 @@ If you have a project, collaboration idea, job opportunity, or simply want to co
 
 <div align="center">
 
-### 💻 Code. Create. Innovate. Repeat.
+### ⚡ **GODSWILL EZE EMMANUEL**
 
-**Godswill Eze Emmanuel**
+`Full-Stack Developer` · `Web Engineer` · `UI Developer`
 
-*Full-Stack Developer | Web Engineer | Problem Solver*
-
-<br/>
-
-<img src="[https://komarev.com/ghpvc/?username=](https://komarev.com/ghpvc/?username=godswillemmanuel01&label=Profile%20Views&color=00D9FF&style=flat)[godswillemmanuel01](https://komarev.com/ghpvc/?username=godswillemmanuel01&label=Profile%20Views&color=00D9FF&style=flat)[&label=Profile%20Views&color=00D9FF&style=flat](https://komarev.com/ghpvc/?username=godswillemmanuel01&label=Profile%20Views&color=00D9FF&style=flat)" alt="Profile Views"/>
+**Building the future, one commit at a time.**
 
 </div>
